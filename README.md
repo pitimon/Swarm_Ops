@@ -7,3 +7,5 @@ https://www.portainer.io/pricing-new?hsLang=en
 
 https://traefik.io/traefik/
 
+https://swarmpit.io
+
