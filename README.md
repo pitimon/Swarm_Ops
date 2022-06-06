@@ -5,5 +5,5 @@ https://docs.docker.com/engine/swarm/
 
 https://www.portainer.io/pricing-new?hsLang=en
 
-https://doc.traefik.io/traefik/master/
+https://traefik.io/traefik/
 
