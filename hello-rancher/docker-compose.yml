@@ -1,0 +1,27 @@
+version: '3.3'
+services:
+  test-volume:
+    image: rancher/hello-world:latest
+    networks:
+     - webproxy
+    logging:
+      driver: json-file
+    deploy:
+      replicas: 8
+      labels:
+        traefik.docker.network: webproxy
+        traefik.enable: 'true'
+        traefik.http.routers.${APNAME}-https.entrypoints: websecure
+        traefik.http.routers.${APPNAME}-https.rule: Host(`${APPNAME}.${DOMAIN}`)
+        traefik.http.routers.${APPNAME}-https.tls.certresolver: default
+        traefik.http.services.${APPNAME}.loadbalancer.server.port: '80'
+      resources:
+        reservations:
+          cpus: '0.1'
+          memory: 8M
+        limits:
+          cpus: '0.4'
+          memory: 128M
+networks:
+  webproxy:
+    external: true
