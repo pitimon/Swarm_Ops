@@ -7,7 +7,7 @@ services:
     logging:
       driver: json-file
     deploy:
-      replicas: 16
+      replicas: 2
       labels:
         traefik.docker.network: webproxy
         traefik.enable: 'true'
