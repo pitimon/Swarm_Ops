@@ -39,7 +39,7 @@ services:
            memory: 32M
          limits:
            cpus: "1.6"
-           memory: 512M
+           memory: 1G
        labels:
         - traefik.enable=true
         - traefik.docker.network=webproxy
