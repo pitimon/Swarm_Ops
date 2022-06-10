@@ -1,0 +1,42 @@
+version: '3.3'
+services:
+  adguardhome:
+    image: adguard/adguardhome:latest
+    ports:
+     - 53:53
+     - 53:53/udp
+     - 83:80
+#     - 784:784/udp
+#     - 853:853
+     - 3000:3000
+#     - 5443:5443 
+#     - 5443:5443/udp
+    volumes:
+     - adguard_adguard-work:/opt/adguardhome/work
+     - adguard_adguard-conf:/opt/adguardhome/conf
+     - /etc/timezone:/etc/timezone:ro
+     - /etc/localtime:/etc/localtime:ro
+    logging:
+      driver: json-file
+    deploy:
+      restart_policy:
+        condition: on-failure
+      resources:
+        reservations:
+          cpus: '0.3'
+          memory: 256M
+        limits:
+          cpus: '4.0'
+          memory: 8192M
+#      placement:
+#        constraints:
+#          - node.labels.adguard-service == true
+
+volumes:
+  adguard_adguard-conf:
+#    external: true
+  adguard_adguard-work:
+#    external: true
+
+
+
