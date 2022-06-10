@@ -38,7 +38,7 @@ services:
            cpus: '0.2'
            memory: 32M
          limits:
-           cpus: "0.8"
+           cpus: "1.6"
            memory: 512M
        labels:
         - traefik.enable=true
