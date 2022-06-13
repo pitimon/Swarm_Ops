@@ -1,23 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T22:21:03.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="UjodQkuDBK-VkrqqVlW0" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T22:41:33.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="ICvHBl_yn3bBo3V7HScH" version="19.0.3" type="github">
   <diagram id="0TcvNVGdfmkhXoJ2Nnpc" name="Page-1">
     <mxGraphModel dx="1666" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tLQB-r3QSDBuK20FlxPW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="114" y="371" width="468" height="243" as="geometry" />
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="629" y="267" width="205" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="tLQB-r3QSDBuK20FlxPW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;strokeWidth=2;dashPattern=1 2;gradientColor=#ffffff;gradientDirection=north;" parent="1" vertex="1">
+          <mxGeometry x="114" y="371" width="489" height="313" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-6" value="worker" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="171" y="521" width="70" height="50" as="geometry" />
+          <mxGeometry x="168" y="600" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-7" value="worker" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="256" y="521" width="70" height="50" as="geometry" />
+          <mxGeometry x="253" y="600" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-8" value="worker" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="336" y="521" width="70" height="50" as="geometry" />
+          <mxGeometry x="333" y="600" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-9" value="worker" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="456" y="521" width="70" height="50" as="geometry" />
+          <mxGeometry x="453" y="600" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-11" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="251" y="191" width="155" height="100" as="geometry" />
@@ -58,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-21" value="Swarm Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="271" y="584" width="130" height="30" as="geometry" />
+          <mxGeometry x="442" y="654" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-22" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="200" y="46" width="30" height="60" as="geometry" />
@@ -71,10 +74,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-24" value="&lt;h1&gt;DNS:&lt;/h1&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;for Ingress service&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;- swarm.ipv9.me&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 17px;&quot;&gt;- swarm.ipv9.xyz&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;for revProxy+Let&#39;s&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;- *.xops.ipv9.me&amp;nbsp;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#0000cc&quot;&gt;- *.xops.ipv9.xyz&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="756" y="62" width="347" height="213" as="geometry" />
+          <mxGeometry x="899" y="49.5" width="207" height="213" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-27" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="374" y="457" width="157" height="50" as="geometry" />
+          <mxGeometry x="371" y="536" width="157" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-5" value="Manager" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="tLQB-r3QSDBuK20FlxPW-27" vertex="1">
           <mxGeometry width="70" height="50" as="geometry" />
@@ -86,10 +89,10 @@
           <mxGeometry x="87" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-28" value="by P.Itarun :Jun22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="895" y="584" width="160" height="30" as="geometry" />
+          <mxGeometry x="946" y="755" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yfkS_hRk5FfO1Nmqv_6T-1" value="&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;Cluster mgmt:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;https://portainer.ipv9.me&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="810" y="439" width="293" height="93" as="geometry" />
+          <mxGeometry x="879" y="435" width="247" height="93" as="geometry" />
         </mxCell>
         <mxCell id="k_gkprCdmWqx7DsaNJFG-2" value="Github" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="45" y="254" width="60" height="59" as="geometry" />
@@ -111,11 +114,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k_gkprCdmWqx7DsaNJFG-9" value="Operate&lt;br&gt;Swarm" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-9" value="Operate" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="75" y="477.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_gkprCdmWqx7DsaNJFG-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="528" y="373" width="50" height="41" as="geometry" />
+          <mxGeometry x="551" y="639" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="k_gkprCdmWqx7DsaNJFG-11" value="Ingress" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Local_Network_Gateways.svg;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="181" y="385" width="50" height="50" as="geometry" />
@@ -146,6 +149,27 @@
             <mxPoint x="400" y="225" as="sourcePoint" />
             <mxPoint x="480" y="182" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-20" value="TrueNAS" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="694" y="507.5" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-21" value="Portainer" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.management_point;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="654" y="364" width="48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-22" value="Swarmpit" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="543" y="377" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-23" value="&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;xOps CPE LAB&lt;/div&gt;" style="text;html=1;strokeColor=#996185;fillColor=#e6d0de;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;gradientColor=#d5739d;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="429.5" y="2" width="247" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-24" value="DevOps" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="763" y="361" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-25" value="Registry v2" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Registries.svg;fontFamily=Comic Sans MS;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="543" y="460" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="k_gkprCdmWqx7DsaNJFG-26" value="Github Idp" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Identity_Governance.svg;fontFamily=Comic Sans MS;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="702" y="280" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
