@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T15:22:07.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="p5ExE5vDGMfF4Mg9fWof" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T03:56:26.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="Rc7qynZSZ1_jia6QMiQ2" version="19.0.3" type="github">
   <diagram id="0TcvNVGdfmkhXoJ2Nnpc" name="Page-1">
-    <mxGraphModel dx="1177" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1086" dy="691" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="453" y="600" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-11" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="251" y="191" width="155" height="100" as="geometry" />
+          <mxGeometry x="233.43" y="180" width="155" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -64,11 +64,11 @@
           <mxGeometry x="442" y="654" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-22" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="200" y="46" width="30" height="60" as="geometry" />
+          <mxGeometry x="376" y="37" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" target="tLQB-r3QSDBuK20FlxPW-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="228" y="117" as="sourcePoint" />
+            <mxPoint x="381" y="123" as="sourcePoint" />
             <mxPoint x="446" y="391" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -94,9 +94,6 @@
         <mxCell id="yfkS_hRk5FfO1Nmqv_6T-1" value="&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;Cluster mgmt:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;https://portainer.ipv9.me&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="879" y="435" width="247" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="k_gkprCdmWqx7DsaNJFG-2" value="Github" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#0000CC;" parent="1" vertex="1">
-          <mxGeometry x="45" y="254" width="60" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="k_gkprCdmWqx7DsaNJFG-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="121" y="281" as="sourcePoint" />
@@ -110,7 +107,7 @@
         <mxCell id="k_gkprCdmWqx7DsaNJFG-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="134" y="176" as="sourcePoint" />
-            <mxPoint x="247" y="215" as="targetPoint" />
+            <mxPoint x="234" y="211" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -180,6 +177,19 @@
         </mxCell>
         <mxCell id="CgTKVV8YwsKoQIOHHpQt-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client" vertex="1" parent="1">
           <mxGeometry x="70" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CgTKVV8YwsKoQIOHHpQt-2" value="Github" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Services_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="262.5" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="CgTKVV8YwsKoQIOHHpQt-3" value="Dockerhub" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Clusters.svg;" vertex="1" parent="1">
+          <mxGeometry x="148" y="40" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CgTKVV8YwsKoQIOHHpQt-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="tLQB-r3QSDBuK20FlxPW-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="208" y="112" as="sourcePoint" />
+            <mxPoint x="257" y="225" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
