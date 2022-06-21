@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T05:44:27.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="566DAZ8I2LLLqhnVaqoG" version="19.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-21T05:45:14.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="9smFx5zlNBPgyHCIU3OQ" version="19.0.3" type="github" pages="2">
   <diagram id="0TcvNVGdfmkhXoJ2Nnpc" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
           <mxGeometry x="437.21999999999997" y="178" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="x4bxJRF8yAL1WtaLv1yr-28" value="zeroTrust" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;dashed=1;dashPattern=1 1;strokeColor=#99004D;strokeWidth=2;fillColor=none;" vertex="1" parent="x4bxJRF8yAL1WtaLv1yr-15">
-          <mxGeometry x="168.05" y="10" width="50" height="50" as="geometry" />
+          <mxGeometry x="168.05" y="19" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x4bxJRF8yAL1WtaLv1yr-29" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="x4bxJRF8yAL1WtaLv1yr-15">
           <mxGeometry x="47.22000000000003" y="258" width="24" height="50" as="geometry" />
