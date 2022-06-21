@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T00:51:28.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="VZqKPZHGXnIc5nHoTa1L" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T00:52:26.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="h3pBO92di4qIeKrjuHSD" version="19.0.3" type="github">
   <diagram id="0TcvNVGdfmkhXoJ2Nnpc" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLQB-r3QSDBuK20FlxPW-21" value="Swarm Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="22" y="548" width="130" height="30" as="geometry" />
+        <mxCell id="tLQB-r3QSDBuK20FlxPW-21" value="Swarm Cluster" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="339" y="654" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tLQB-r3QSDBuK20FlxPW-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -113,10 +113,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_gkprCdmWqx7DsaNJFG-9" value="Operate" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="75" y="477.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="68" y="477" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_gkprCdmWqx7DsaNJFG-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fontColor=#0000CC;" parent="1" vertex="1">
-          <mxGeometry x="75" y="507" width="50" height="41" as="geometry" />
+          <mxGeometry x="73" y="387.5" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="k_gkprCdmWqx7DsaNJFG-11" value="Ingress" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Local_Network_Gateways.svg;fontColor=#0000CC;" parent="1" vertex="1">
           <mxGeometry x="148" y="383" width="50" height="50" as="geometry" />
