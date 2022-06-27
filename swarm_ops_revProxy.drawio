@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T22:49:31.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="n6wHVDjvp8Dak_qO9dcN" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-27T23:02:05.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="NRfn3BLu1RC8Eo2dPLWS" version="20.0.3" type="github" pages="4">
   <diagram id="0TcvNVGdfmkhXoJ2Nnpc" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -733,7 +733,7 @@
         <mxCell id="fWNWql1fVHAn7pHqmxA6-42" value="OpenSpeed" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Instances.svg;dashed=1;dashPattern=1 2;fontFamily=Comic Sans MS;fontColor=#0000CC;gradientColor=#ffffff;gradientDirection=north;imageBackground=#994C00;" vertex="1" parent="1">
           <mxGeometry x="718" y="478" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fWNWql1fVHAn7pHqmxA6-43" value="OTrust" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#0021BF;shape=mxgraph.azure.load_balancer_generic" vertex="1" parent="1">
+        <mxCell id="fWNWql1fVHAn7pHqmxA6-43" value="OTrust" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#3700CC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#6a00ff;shape=mxgraph.azure.load_balancer_generic;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="780.5" y="414" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fWNWql1fVHAn7pHqmxA6-44" value="AWS-Virginia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
