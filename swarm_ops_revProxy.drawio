@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T10:14:05.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="ScoshTatBwqXvbuJ9A2R" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-05T10:15:23.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="PEqxxVPVPEo6COszXzhJ" version="20.0.4" type="github" pages="4">
   <diagram id="0TcvNVGdfmkhXoJ2Nnpc" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -483,7 +483,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JkPEJSlMnFwa-_z4Fvw0-18" value="Tunnel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JkPEJSlMnFwa-_z4Fvw0-17" vertex="1" connectable="0">
+        <mxCell id="JkPEJSlMnFwa-_z4Fvw0-18" value="Cluster net (Recommend L2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JkPEJSlMnFwa-_z4Fvw0-17" vertex="1" connectable="0">
           <mxGeometry x="0.2419" y="-4" relative="1" as="geometry">
             <mxPoint x="-92" y="-6" as="offset" />
           </mxGeometry>
